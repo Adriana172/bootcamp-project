@@ -1,3 +1,3 @@
-DROP DATABASE IF EXISTS bootcampproject;
-CREATE DATABASE bootcampproject;
-\connect bootcampproject;
+DROP DATABASE IF EXISTS confessions;
+CREATE DATABASE confessions;
+\connect confessions;

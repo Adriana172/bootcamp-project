@@ -35,7 +35,7 @@
     "start": "node index.js",
     "reset": "node index.js --force",
     "copy-env": "cp sample.env .env",
-    "setup-db": "createdb bootcampproject",
+    "setup-db": "createdb confessions",
     "db": "psql -U admin postgres"
   },
   "devDependencies": {
